@@ -1,0 +1,21 @@
+web/src/pages/studio/__tests__/LiteTopic.test.tsx
+  s_4884e99c338e65::t_65063d0839c094 1-89
+web/src/pages/studio/LiteTopic.tsx
+  s_4884e99c338e65::t_79f5ec72e5e2c6 565
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "84df824d9dfb7129a8ec709ba99a80979da445fa",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

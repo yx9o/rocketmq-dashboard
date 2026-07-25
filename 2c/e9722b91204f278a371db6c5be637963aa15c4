@@ -1,0 +1,23 @@
+server/src/test/java/com/rocketmq/studio/common/exception/GlobalExceptionHandlerTest.java
+  s_4884e99c338e65::t_522037b13e9dd1 26,60-74,82-85
+  s_4884e99c338e65::t_2bc57ba2cedb97 86
+server/src/main/java/com/rocketmq/studio/common/exception/GlobalExceptionHandler.java
+  s_4884e99c338e65::t_251b432965714f 30,68-72
+  s_4884e99c338e65::t_7d0b3b48b7e779 73-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "2ce9722b91204f278a371db6c5be637963aa15c4",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

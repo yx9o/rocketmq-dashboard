@@ -1,0 +1,26 @@
+server/src/main/java/com/rocketmq/studio/ops/OpsController.java
+  s_4884e99c338e65::t_0fb0abf638b610 21,54-55,60-61
+server/src/main/java/com/rocketmq/studio/ops/OpsVipChannelDTO.java
+  s_4884e99c338e65::t_0fb0abf638b610 20,25-26
+server/src/main/java/com/rocketmq/studio/ops/OpsTlsDTO.java
+  s_4884e99c338e65::t_0fb0abf638b610 20,25-26
+server/src/test/java/com/rocketmq/studio/ops/OpsControllerTest.java
+  s_4884e99c338e65::t_67562119b54d60 22-23,96-98,101,104,119-121,124,127
+  s_4884e99c338e65::t_52fc75605104ba 36,108-118,128-139
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "863eae6c4460452cfb3459b6a236970b4bff6065",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+web/src/components/__tests__/MiniBar.test.tsx
+  s_4884e99c338e65::t_8c7736479df271 1-37
+web/src/components/MiniBar.tsx
+  s_4884e99c338e65::t_0fafa9f149b894 55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "8b860a86c568ac7586e3dee08e0ea42ab6035e94",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

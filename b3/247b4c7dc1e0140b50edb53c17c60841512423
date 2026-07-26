@@ -1,0 +1,22 @@
+web/src/pages/studio/__tests__/SslSettings.test.tsx
+  s_4884e99c338e65::t_ea358cab2b8a75 98-112,121
+  s_4884e99c338e65::t_ab940c4b48c361 19,113-120
+web/src/pages/studio/SslSettings.tsx
+  s_4884e99c338e65::t_0441ef47ef9a09 84,234
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "b3247b4c7dc1e0140b50edb53c17c60841512423",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

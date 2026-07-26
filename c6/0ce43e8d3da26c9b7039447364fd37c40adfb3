@@ -1,0 +1,21 @@
+web/src/layouts/navigationSearch.test.ts
+  s_4884e99c338e65::t_8ff11da507f3e4 32-36,51-72
+web/src/layouts/navigationSearch.ts
+  s_4884e99c338e65::t_260f4149d0ac93 32-36,44,46-57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "c60ce43e8d3da26c9b7039447364fd37c40adfb3",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+server/src/main/java/org/apache/rocketmq/studio/auth/AuthService.java
+  s_4884e99c338e65::t_a8c3eb90b89d31 22,25,39,42-51,63-64,66,87,121-122
+server/src/test/java/org/apache/rocketmq/studio/auth/AuthServiceTest.java
+  s_4884e99c338e65::t_cfc18ec9977769 25,27-29,31,35-36,47,69-70,154,164,169-190
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "46ce3a365e9cc78cd13498c647ff2d23257435e2",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "unknown"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

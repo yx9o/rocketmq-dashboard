@@ -1,0 +1,26 @@
+web/src/pages/cluster/__tests__/K8sCertsPage.test.tsx
+  s_4884e99c338e65::t_cdb73b559c8d4d 111-114
+  s_4884e99c338e65::t_1d61382c513c50 19,51,85,92-99,101-109,115-124,126-148
+  s_4884e99c338e65::t_a6c30a6dd5f3b8 100
+  s_4884e99c338e65::t_b3c9712c5dd404 125
+  s_4884e99c338e65::t_7bd5e24a803810 59-60
+web/src/pages/cluster/certs.tsx
+  s_4884e99c338e65::t_4a9c42a0f73b83 140,194-195,290
+  s_4884e99c338e65::t_2a2767d2725f43 63,134-136,141-142,144-145,181-193,196-204,358,362-369,392
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "6cd4b94e359d8efe969b5d58d3997cbab3836ca9",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

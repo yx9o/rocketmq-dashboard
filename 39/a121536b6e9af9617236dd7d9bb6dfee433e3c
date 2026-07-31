@@ -1,0 +1,25 @@
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/tool/ToolCatalogTest.java
+  s_4884e99c338e65::t_a548403e252fe2 46-47
+server/src/main/java/org/apache/rocketmq/studio/ops/ai/tool/AlertRuleListToolHandler.java
+  s_4884e99c338e65::t_9c9d37c43ba852 1-100
+server/src/main/resources/tool-catalog/rmq-tools.yaml
+  s_4884e99c338e65::t_9038d94f25bf76 306-368
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/tool/ToolGatewayServiceTest.java
+  s_4884e99c338e65::t_617df715dfdc3e 33-34,61,68,77,84,91-92,114-115,329-361,417-418,435-436,470-471,498-499,524-525,594-609
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "39a121536b6e9af9617236dd7d9bb6dfee433e3c",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

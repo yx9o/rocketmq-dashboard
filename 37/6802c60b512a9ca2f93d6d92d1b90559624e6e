@@ -1,0 +1,26 @@
+web/src/pages/instance/__tests__/ConsumerPage.test.tsx
+  s_4884e99c338e65::t_a6a0b7154d8b48 178-208,210
+  s_4884e99c338e65::t_296f6c56648a80 81
+  s_4884e99c338e65::t_0f776a3a665642 126-134,136-141,143-150,152-157,159-167,170-177
+  s_4884e99c338e65::t_544ef9ac8e2c8a 135,142,151,158,168-169,209
+web/src/pages/instance/consumer.tsx
+  s_4884e99c338e65::t_b329f558907f34 20,24,121,128,130-131,133,158-159,164,188-191,196,198-199,243,252-259,697,728,869-886,888-892,895-924,927,929
+  s_4884e99c338e65::t_544ef9ac8e2c8a 120,122-127,129,132,161-163,423-431,893-894
+  s_4884e99c338e65::t_79281e363c01bb 160
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "376802c60b512a9ca2f93d6d92d1b90559624e6e",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/AlertServiceTest.java
+  s_4884e99c338e65::t_8890a118743529 187
+  s_4884e99c338e65::t_7bce6be92424ba 178,180
+  s_4884e99c338e65::t_810ddd65a98bd7 19-21,158-177,179,181-186,188-199
+  s_4884e99c338e65::t_ddd611e1025f37 200
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertService.java
+  s_4884e99c338e65::t_b677f9afeb1add 61-63,192-193,216,276-297
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "ff081a4dc2623bba378fc48b673da69c7fcee97c",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

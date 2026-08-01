@@ -1,0 +1,51 @@
+web/src/api/audit.ts
+  s_4884e99c338e65::t_4489e6908b259b 1-26
+web/src/pages/ops/audit.tsx
+  s_4884e99c338e65::t_a62572cc298667 36,142
+  s_4884e99c338e65::t_4489e6908b259b 34,40,42,64-76,91,99,132-141,143-151,248-258
+  s_4884e99c338e65::t_0e2f3693e05d54 259
+web/src/services/opsService.ts
+  s_4884e99c338e65::t_7cfbeb0d7113df 52
+  s_4884e99c338e65::t_4489e6908b259b 2-3,32-51,54-73,160,170-173
+  s_4884e99c338e65::t_b1d72dac0466b9 53
+  s_4884e99c338e65::t_f86ed88199f742 174
+docs/api-spec.md
+  s_4884e99c338e65::t_627a0144a99fd4 102-114,1473-1485
+server/src/main/java/org/apache/rocketmq/studio/ops/audit/AuditService.java
+  s_4884e99c338e65::t_d042ff1c1fbc8d 37-39,50,61-77,97-118,120-123
+  s_4884e99c338e65::t_7cfbeb0d7113df 119
+  s_4884e99c338e65::t_f7872b177dbf9c 124
+web/src/api/audit.test.ts
+  s_4884e99c338e65::t_4489e6908b259b 20,53-61
+  s_4884e99c338e65::t_a07ec33fe28d2c 62
+server/src/test/java/org/apache/rocketmq/studio/ops/audit/AuditControllerTest.java
+  s_4884e99c338e65::t_d042ff1c1fbc8d 160-179
+server/src/main/java/org/apache/rocketmq/studio/ops/audit/AuditController.java
+  s_4884e99c338e65::t_d042ff1c1fbc8d 52-61
+web/src/services/opsService.test.ts
+  s_4884e99c338e65::t_4489e6908b259b 23,123-131,133-141,144
+  s_4884e99c338e65::t_989d7c2bb204b4 132
+  s_4884e99c338e65::t_7cfbeb0d7113df 142-143
+  s_4884e99c338e65::t_c5dc81f1045c8a 145
+server/src/test/java/org/apache/rocketmq/studio/ops/audit/AuditServiceTest.java
+  s_4884e99c338e65::t_7cfbeb0d7113df 273,285
+  s_4884e99c338e65::t_d042ff1c1fbc8d 264-272,274-284,286-288
+web/src/pages/ops/__tests__/AuditPage.test.tsx
+  s_4884e99c338e65::t_4489e6908b259b 1-123
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "202fa240ad2dfb88bed7510675b19e90791743a1",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

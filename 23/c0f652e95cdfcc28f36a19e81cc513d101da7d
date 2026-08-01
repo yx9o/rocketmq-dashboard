@@ -1,0 +1,36 @@
+server/src/test/java/org/apache/rocketmq/studio/settings/InMemorySettingsRepositoryTest.java
+  s_4884e99c338e65::t_a3fdfe23f40753 41,43,48-50
+  s_4884e99c338e65::t_750b7f4d7544c1 51-52
+server/src/main/java/org/apache/rocketmq/studio/settings/SettingsController.java
+  s_4884e99c338e65::t_c5ca8323c3a15b 65
+server/src/main/java/org/apache/rocketmq/studio/settings/InMemorySettingsRepository.java
+  s_4884e99c338e65::t_a3fdfe23f40753 74-75
+server/src/main/java/org/apache/rocketmq/studio/settings/SettingsRepository.java
+  s_4884e99c338e65::t_a3fdfe23f40753 35
+server/src/main/java/org/apache/rocketmq/studio/settings/SettingsService.java
+  s_4884e99c338e65::t_a3fdfe23f40753 104-106,108,115-119,162-166
+  s_4884e99c338e65::t_ca95f9814dbef0 167-168
+server/src/test/java/org/apache/rocketmq/studio/settings/SettingsControllerTest.java
+  s_4884e99c338e65::t_00b18d94e66085 20,36,270-295
+  s_4884e99c338e65::t_c259e0afda3f86 296
+server/src/test/java/org/apache/rocketmq/studio/settings/SettingsServiceTest.java
+  s_4884e99c338e65::t_a3fdfe23f40753 240,256,272-281
+  s_4884e99c338e65::t_0afb2d5fd8ba12 241-253,263-271
+  s_4884e99c338e65::t_2236f97e2cd63a 282
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "23c0f652e95cdfcc28f36a19e81cc513d101da7d",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

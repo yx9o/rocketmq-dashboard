@@ -1,0 +1,40 @@
+server/src/main/java/org/apache/rocketmq/studio/instance/InMemoryInstanceRepository.java
+  s_4884e99c338e65::t_6f0ca70cf78b89 26,84,86,92,95,99-107
+  s_4884e99c338e65::t_3bd19bdd9275c3 108
+web/src/api/instance.test.ts
+  s_4884e99c338e65::t_7e60f45951c87e 59-78
+web/src/services/instanceService.test.ts
+  s_4884e99c338e65::t_7e60f45951c87e 43-53
+web/src/pages/instance/__tests__/InstancePage.test.tsx
+  s_4884e99c338e65::t_d7fec73c2e4d58 19,98-100,131-136,150-153,155-171,176-186
+  s_4884e99c338e65::t_569c4756db42e6 154,172-174
+  s_4884e99c338e65::t_0aaac4706fad16 175
+  s_4884e99c338e65::t_7e60f45951c87e 1-18,20-97,101-130,137-149,187-188
+server/src/test/java/org/apache/rocketmq/studio/instance/InMemoryInstanceRepositoryTest.java
+  s_4884e99c338e65::t_d7fec73c2e4d58 29
+  s_4884e99c338e65::t_7e60f45951c87e 1-28,30-44
+web/src/api/instance.ts
+  s_4884e99c338e65::t_6f0ca70cf78b89 48-52,54-60
+web/src/pages/instance/index.tsx
+  s_4884e99c338e65::t_85bf2ec2085306 85,103,106
+  s_4884e99c338e65::t_6f0ca70cf78b89 18,37,53-54,63-64,71-84,86-100,107,109,116,133,147,154,277,298,322
+web/src/services/instanceService.ts
+  s_4884e99c338e65::t_d7fec73c2e4d58 20,27
+  s_4884e99c338e65::t_6f0ca70cf78b89 3-8,18-19,21-26,28-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "80c0a93d9a6af001ee0b91ae0cc760d819c0feff",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+web/src/pages/settings/index.tsx
+  s_4884e99c338e65::t_3ec4aec8914492 71,381-383,460
+  s_4884e99c338e65::t_37469844192290 477-481
+web/src/pages/settings/__tests__/DataSourceTab.test.tsx
+  s_4884e99c338e65::t_3ec4aec8914492 166-214
+  s_4884e99c338e65::t_fe78fc27132e98 254-258
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "d19814ce50ab0ec795f5b7cda9d9d38a2c6b9dbf",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

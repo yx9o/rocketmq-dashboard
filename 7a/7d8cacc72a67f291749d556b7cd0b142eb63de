@@ -1,0 +1,29 @@
+web/src/pages/ops/alerts.tsx
+  s_4884e99c338e65::t_3277e5b37fd2cb 34,63,361-364,366-368
+  s_4884e99c338e65::t_4ec5edca031b6b 183-187,189-193,196-199,209,271,376,384
+  s_4884e99c338e65::t_7423a896c7a46c 18,36,70-71,100-102,142,151-152,154-176,178-182,188,194-195,200-208,210,212-214,358-360,365,369-371,373-375,377-379,381-383,385-387,394
+  s_4884e99c338e65::t_bb44cb8d1a06d0 103,124,137,153,177,211,250,282,344-349,372,380
+web/src/pages/ops/__tests__/AlertsPage.test.tsx
+  s_4884e99c338e65::t_d7ab3ecc7341df 202-228
+  s_4884e99c338e65::t_ae3e0fcf891cdb 1-176,229
+  s_4884e99c338e65::t_4ec5edca031b6b 177-201
+  s_4884e99c338e65::t_57e9d41b528a3d 230-232
+web/src/i18n/translations.ts
+  s_4884e99c338e65::t_4ec5edca031b6b 211-237
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "7a7d8cacc72a67f291749d556b7cd0b142eb63de",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

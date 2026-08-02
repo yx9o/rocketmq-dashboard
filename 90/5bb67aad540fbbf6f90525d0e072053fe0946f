@@ -1,0 +1,29 @@
+web/src/pages/cluster/__tests__/ClientsPage.test.tsx
+  s_4884e99c338e65::t_3ca0a92e995f3f 63,119
+  s_4884e99c338e65::t_ce4e5c15578608 144-149,161-168
+  s_4884e99c338e65::t_4a483d71d149bf 19,44-62,64-69,102-105,109-118,120-127,132-137,150-157,159-160,169-176,180-181,185-189
+  s_4884e99c338e65::t_bbe2d70a4e979b 106-108,128,138-143,158,177-179,182-184
+  s_4884e99c338e65::t_ab8c52897cfbe2 129-131
+web/src/pages/cluster/clients.tsx
+  s_4884e99c338e65::t_4a483d71d149bf 28,33,68,75-77,83,120-140,143-147,149,322-335,337-363,365,376-380
+  s_4884e99c338e65::t_3ca0a92e995f3f 62-65,336,364,366-375
+  s_4884e99c338e65::t_bbe2d70a4e979b 69-74,304
+  s_4884e99c338e65::t_4e016f6b8018c1 243-246
+  s_4884e99c338e65::t_a26f2aae5ad18f 381-382
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "905bb67aad540fbbf6f90525d0e072053fe0946f",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

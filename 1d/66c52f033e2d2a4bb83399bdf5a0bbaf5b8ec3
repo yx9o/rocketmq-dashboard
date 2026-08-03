@@ -1,0 +1,32 @@
+server/src/test/java/org/apache/rocketmq/studio/cluster/metrics/MetricsServiceTest.java
+  s_4884e99c338e65::t_8fbebc73feb64f 21,43-45,107-158
+  s_4884e99c338e65::t_ef26ada06a753c 159
+server/src/test/java/org/apache/rocketmq/studio/cluster/metrics/MetricProfileServiceTest.java
+  s_4884e99c338e65::t_8fbebc73feb64f 27,86-105,131-139
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/MetricQueryDTO.java
+  s_4884e99c338e65::t_3aa30dcf686118 19,21,36-37,41-50,66-90
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/MetricProfileService.java
+  s_4884e99c338e65::t_3aa30dcf686118 19,34-46,120-123
+server/src/test/java/org/apache/rocketmq/studio/cluster/metrics/MetricsControllerTest.java
+  s_4884e99c338e65::t_2ee04ab999c093 29-30,91,106,113-127
+  s_4884e99c338e65::t_8fbebc73feb64f 32,89-90,92-105,107-112
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/MetricsService.java
+  s_4884e99c338e65::t_3aa30dcf686118 49,52-56,58-59,83-107
+  s_4884e99c338e65::t_b8487d657f94aa 108-109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "1d66c52f033e2d2a4bb83399bdf5a0bbaf5b8ec3",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

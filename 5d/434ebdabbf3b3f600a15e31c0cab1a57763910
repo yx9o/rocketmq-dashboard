@@ -1,0 +1,25 @@
+web/src/pages/instance/message.tsx
+  s_4884e99c338e65::t_ad6d5714014323 35,38,47-48,55,65-72,126-128,148-159,161-177,196,208-238,240,252-269,271,273-305,307-308,683-691
+  s_4884e99c338e65::t_0a72274ada71f5 129-147,160
+web/src/pages/instance/__tests__/MessagePage.test.tsx
+  s_4884e99c338e65::t_9f9a3db01c931f 77,109
+  s_4884e99c338e65::t_4318f38a2bc2e1 117-163,215
+  s_4884e99c338e65::t_0a72274ada71f5 30-31,164-214
+  s_4884e99c338e65::t_49fc30a6c0c08a 1-29,32-76,78-108,110-116,216
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "5d434ebdabbf3b3f600a15e31c0cab1a57763910",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+web/src/pages/studio/__tests__/AlertManagement.test.tsx
+  s_4884e99c338e65::t_25aee20940b43b 136,169-189
+  s_4884e99c338e65::t_6f9955e02154ab 19-21,45-54,82-85,89-99,103-106,116-135
+  s_4884e99c338e65::t_c433e55419c3ce 137-168
+web/src/pages/studio/AlertManagement.tsx
+  s_4884e99c338e65::t_db4085a3af1e4a 184-191,216-221,236,264,276-280,325,618
+  s_4884e99c338e65::t_c433e55419c3ce 158,324,326-328,330-331,562,617,619-622
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "6ffa0fc7bd59f53e47efe7221c0399965558e575",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

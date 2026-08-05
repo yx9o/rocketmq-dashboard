@@ -1,0 +1,37 @@
+web/src/api/producer.ts
+  s_4884e99c338e65::t_cf818289d77f04 46-51
+server/src/main/java/org/apache/rocketmq/studio/cluster/client/ProducerConnectionService.java
+  s_4884e99c338e65::t_cf818289d77f04 19,43-49
+  s_4884e99c338e65::t_700726b44c1972 50-52
+server/src/test/java/org/apache/rocketmq/studio/cluster/client/ProducerConnectionServiceTest.java
+  s_4884e99c338e65::t_cf818289d77f04 97-111
+server/src/main/java/org/apache/rocketmq/studio/cluster/client/ProducerController.java
+  s_4884e99c338e65::t_cf818289d77f04 19,27-28,36-39
+  s_4884e99c338e65::t_58428357bded60 40
+web/src/pages/studio/__tests__/Producer.test.tsx
+  s_4884e99c338e65::t_cf818289d77f04 24-28,31,64,84,89-99,113,118,132,142-160
+web/src/pages/studio/Producer.tsx
+  s_4884e99c338e65::t_cf818289d77f04 19,23,32,55-67,69,146-154
+server/src/test/java/org/apache/rocketmq/studio/cluster/client/ProducerControllerTest.java
+  s_4884e99c338e65::t_cf818289d77f04 46-57
+  s_4884e99c338e65::t_52aef7eab8ffce 45
+web/src/api/producer.test.ts
+  s_4884e99c338e65::t_cf818289d77f04 21,62-68
+  s_4884e99c338e65::t_40246e05323843 69-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "5ff2c4eb9a70f499698606f98c819ceb24625583",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

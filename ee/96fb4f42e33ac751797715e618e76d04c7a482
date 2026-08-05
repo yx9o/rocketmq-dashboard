@@ -1,0 +1,46 @@
+server/src/test/java/org/apache/rocketmq/studio/cluster/client/ProducerControllerTest.java
+  s_4884e99c338e65::t_5cdb9cde47793e 73-75,84-97,100
+  s_4884e99c338e65::t_5453fd92d2caaa 29,68-72,76-83,98-99
+server/src/test/java/org/apache/rocketmq/studio/cluster/client/ProducerConnectionServiceTest.java
+  s_4884e99c338e65::t_5453fd92d2caaa 21,31-32,40,46,56-57,66,70-75,79-84,88-90,92-93,95
+server/src/test/java/org/apache/rocketmq/studio/cluster/client/ClientProviderStubTest.java
+  s_4884e99c338e65::t_5453fd92d2caaa 36-43
+server/src/main/java/org/apache/rocketmq/studio/cluster/client/ProducerConnectionService.java
+  s_4884e99c338e65::t_54d247e35bbba9 19,31,35-37,55-59
+server/src/test/java/org/apache/rocketmq/studio/rocketmq/RocketMQClientProviderTest.java
+  s_4884e99c338e65::t_351a6d911c8202 23,25,30,46,70-73,78-79,84-94,98-150,152-154,220-235
+  s_4884e99c338e65::t_806704239c8ce5 151,155-165
+server/src/main/java/org/apache/rocketmq/studio/cluster/client/ProducerController.java
+  s_4884e99c338e65::t_5cdb9cde47793e 19,37-38,41-45
+  s_4884e99c338e65::t_be2158116be0d5 46
+server/src/main/java/org/apache/rocketmq/studio/rocketmq/RocketMQClientProvider.java
+  s_4884e99c338e65::t_54d247e35bbba9 23,25,33,41,45-46,51,69,74,82-84,86-93,95,97-117,119-120,122-135,138-140,142-158,161-164,166-181,313-331
+  s_4884e99c338e65::t_806704239c8ce5 94
+server/src/main/java/org/apache/rocketmq/studio/cluster/client/ClientProvider.java
+  s_4884e99c338e65::t_54d247e35bbba9 24-25
+server/src/main/java/org/apache/rocketmq/studio/cluster/client/ClientProviderStub.java
+  s_4884e99c338e65::t_54d247e35bbba9 33-39
+web/src/pages/studio/Producer.tsx
+  s_4884e99c338e65::t_54d247e35bbba9 60,125-129
+web/src/api/producer.ts
+  s_4884e99c338e65::t_54d247e35bbba9 46,49,52
+web/src/pages/studio/__tests__/Producer.test.tsx
+  s_4884e99c338e65::t_5453fd92d2caaa 83,101,105,109-123
+  s_4884e99c338e65::t_50ce36cc4090ba 124
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "ee96fb4f42e33ac751797715e618e76d04c7a482",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

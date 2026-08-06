@@ -1,0 +1,43 @@
+web/src/pages/cluster/__tests__/K8sCertsPage.test.tsx
+  s_4884e99c338e65::t_b9d9f05123a67a 19,23,31,58-59,63-75,96,168-240
+docs/api-spec.md
+  s_4884e99c338e65::t_1bff46bca22208 65-116,631-659
+server/src/main/java/org/apache/rocketmq/studio/cluster/k8s/BatchRenewCertDTO.java
+  s_4884e99c338e65::t_c1af2939f923c5 1-37
+server/src/main/java/org/apache/rocketmq/studio/cluster/k8s/BatchRenewCertResultVO.java
+  s_4884e99c338e65::t_41578843d841b4 1-46
+server/src/main/java/org/apache/rocketmq/studio/cluster/k8s/K8sCertController.java
+  s_4884e99c338e65::t_66468eba67dc5d 61-67
+server/src/main/java/org/apache/rocketmq/studio/cluster/k8s/K8sCertService.java
+  s_4884e99c338e65::t_0f38b1fccb7712 30,144-168,184-208
+server/src/test/java/org/apache/rocketmq/studio/cluster/k8s/K8sCertControllerTest.java
+  s_4884e99c338e65::t_3056236e871882 36,149,236-288
+server/src/test/java/org/apache/rocketmq/studio/cluster/k8s/K8sCertServiceTest.java
+  s_4884e99c338e65::t_30b6c13f4f3e75 390-466
+web/src/api/cluster.test.ts
+  s_4884e99c338e65::t_d9595e8b7721fe 29,101-116
+web/src/api/cluster.ts
+  s_4884e99c338e65::t_1beea3412ad274 114-127,216-222
+web/src/pages/cluster/certs.tsx
+  s_4884e99c338e65::t_443bd047b44f7d 20,42,58,63-64,68-69,89,151-156,164,174-197,318,338,340,355,357,394-395,411,422-445,447-462,464,469-473
+web/src/services/clusterService.test.ts
+  s_4884e99c338e65::t_49b8236727f023 31,157-187
+web/src/services/clusterService.ts
+  s_4884e99c338e65::t_94a6ea6d267506 8,128-159
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "431d2c16e6e685d51396d7d5f7cca0e59b36b4a3",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

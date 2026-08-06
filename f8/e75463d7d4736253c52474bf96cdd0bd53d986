@@ -1,0 +1,77 @@
+docs/api-spec.md
+  s_4884e99c338e65::t_d59c773a640641 102-116,1443,1454-1455,1458,1466,1468-1469,1478-1479,1481,1483-1484,1486,1489-1506,1515
+server/src/test/java/org/apache/rocketmq/studio/ops/audit/AuditControllerTest.java
+  s_4884e99c338e65::t_6e86277492b242 64,72-73,84,151-152,161-162,168-169,174-175,183-204
+server/src/main/java/org/apache/rocketmq/studio/ops/audit/AuditFilterOptionsVO.java
+  s_4884e99c338e65::t_08a9d3d3faee92 1-35
+web/src/services/opsService.ts
+  s_4884e99c338e65::t_aed34abe4028de 1,33
+  s_4884e99c338e65::t_8abd09f33e4c2b 2,32,34-44,57-58,189-192
+  s_4884e99c338e65::t_3f41437b1993b0 193
+web/src/api/audit.test.ts
+  s_4884e99c338e65::t_55bd4244a34ab6 20,31-42
+web/src/pages/ops/__tests__/AuditPage.test.tsx
+  s_4884e99c338e65::t_55bd4244a34ab6 30,63-68,75,121-122,134-139,155-165,167-177
+  s_4884e99c338e65::t_667456b00f0ac9 140
+  s_4884e99c338e65::t_da26786e422ff2 144,166
+  s_4884e99c338e65::t_83db96d7091482 178-187,189-192
+  s_4884e99c338e65::t_568792d676fdcb 188
+  s_4884e99c338e65::t_e0ce5ac19b1874 145,151
+  s_4884e99c338e65::t_3e3b6ff2e8ffd1 141-143,146-150,152-154
+web/src/api/ops.ts
+  s_4884e99c338e65::t_8abd09f33e4c2b 54-55
+web/src/pages/ops/audit.tsx
+  s_4884e99c338e65::t_aed34abe4028de 57
+  s_4884e99c338e65::t_fed24320e15779 350
+  s_4884e99c338e65::t_8e7338491369ca 210,357
+  s_4884e99c338e65::t_e0ce5ac19b1874 270,285,300,319
+  s_4884e99c338e65::t_690775072eb14a 40
+  s_4884e99c338e65::t_8abd09f33e4c2b 42-47,50-54,59-64,69-70,76-77,93-94,97,102-115,124-131,148-158,178-185,211,240-242,257-258,279-284,286-299,301-309,328-331
+  s_4884e99c338e65::t_83db96d7091482 116
+  s_4884e99c338e65::t_8f60818e50e61a 58
+  s_4884e99c338e65::t_a3f777ab04cefb 117
+server/src/test/java/org/apache/rocketmq/studio/ops/audit/AuditServiceTest.java
+  s_4884e99c338e65::t_6e86277492b242 69-71,74,78-79,84-86,88-89,93-94,101-102,105-106,113-114,132-133,136-137,146-147,150,155-166
+  s_4884e99c338e65::t_5e1b5311760fda 167-168
+web/src/services/opsService.test.ts
+  s_4884e99c338e65::t_9ae85d55066f1b 123-133,188
+  s_4884e99c338e65::t_55bd4244a34ab6 24,155-187
+  s_4884e99c338e65::t_3600366584348a 189
+server/src/main/java/org/apache/rocketmq/studio/ops/audit/MybatisPlusAuditRepository.java
+  s_4884e99c338e65::t_aed34abe4028de 29,70-73,75-78,101-103
+  s_4884e99c338e65::t_08a9d3d3faee92 30,45,54-55,68-69,74,79-81,104-110
+  s_4884e99c338e65::t_5316ba52499d9e 111
+server/src/test/java/org/apache/rocketmq/studio/ops/audit/MybatisPlusAuditRepositoryTest.java
+  s_4884e99c338e65::t_02f99db7022854 109
+  s_4884e99c338e65::t_6e86277492b242 20,69,72-73,82-83,85-86,95-97,99-101
+  s_4884e99c338e65::t_aed34abe4028de 35,88-94,98,102-107
+  s_4884e99c338e65::t_9ae85d55066f1b 87
+  s_4884e99c338e65::t_441b3ab04d44c9 108
+server/src/main/java/org/apache/rocketmq/studio/ops/audit/AuditService.java
+  s_4884e99c338e65::t_08a9d3d3faee92 46-47,53-54,57-62,64-65,118-121,127-128
+web/src/api/audit.ts
+  s_4884e99c338e65::t_8abd09f33e4c2b 23-34
+server/src/main/java/org/apache/rocketmq/studio/ops/audit/AuditRepository.java
+  s_4884e99c338e65::t_08a9d3d3faee92 24,28
+  s_4884e99c338e65::t_84d6329b256d0a 29
+server/src/main/java/org/apache/rocketmq/studio/ops/audit/AuditController.java
+  s_4884e99c338e65::t_08a9d3d3faee92 45-46,50-56,63-64,68-69
+web/src/mock/audit.ts
+  s_4884e99c338e65::t_039bb85547dd20 23-25,29,35-37,41,47-49,53,59-61,65,71-73,77,83-85,89-90,96-98,102,108-110,114,120-122,126,132-134,138,144-146,150-151,157-159,163,169-171,175,181-183,187,193-195,199-200,206-208,212,218-220,224,230-232,236
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "f8e75463d7d4736253c52474bf96cdd0bd53d986",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

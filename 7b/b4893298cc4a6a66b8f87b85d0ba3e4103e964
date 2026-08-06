@@ -1,0 +1,34 @@
+README.md
+  h_4b4a4f6d863f9a 32
+docs/api-spec.md
+  h_4b4a4f6d863f9a 543-572,586,608,626,645,659
+server/src/main/java/org/apache/rocketmq/studio/cluster/nameserver/NameServerController.java
+  h_4b4a4f6d863f9a 25,29,40-46
+server/src/test/java/org/apache/rocketmq/studio/cluster/nameserver/NameServerControllerTest.java
+  h_4b4a4f6d863f9a 34,52-92
+web/src/App.tsx
+  h_4b4a4f6d863f9a 42,168
+web/src/api/cluster.test.ts
+  h_4b4a4f6d863f9a 26,176-205
+web/src/api/cluster.ts
+  h_4b4a4f6d863f9a 114-135,198-204
+web/src/i18n/translations.ts
+  h_4b4a4f6d863f9a 40,713-746
+web/src/layouts/MainLayout.tsx
+  h_4b4a4f6d863f9a 42,138-142,175
+web/src/services/clusterService.test.ts
+  h_4b4a4f6d863f9a 29,75-91
+web/src/services/clusterService.ts
+  h_4b4a4f6d863f9a 9,71-106
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "7bb4893298cc4a6a66b8f87b85d0ba3e4103e964",
+  "prompts": {},
+  "humans": {
+    "h_4b4a4f6d863f9a": {
+      "author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

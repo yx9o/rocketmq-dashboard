@@ -1,0 +1,21 @@
+web/src/pages/ops/nameServerConfigDrift.tsx
+  s_4884e99c338e65::t_427231943a14fb 1-236
+web/src/pages/ops/__tests__/NameServerConfigDriftPage.test.tsx
+  s_4884e99c338e65::t_11709d87655d4c 1-176
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "b54dc93d058e4c72d61d208072bc5b6fbb5bd9c7",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

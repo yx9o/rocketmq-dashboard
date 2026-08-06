@@ -1,0 +1,55 @@
+web/src/services/clusterService.test.ts
+  s_4884e99c338e65::t_17909e65088f54 31,157-187
+docs/api-spec.md
+  s_4884e99c338e65::t_d8af2f2a743355 65-116,631-659
+web/src/api/cluster.ts
+  s_4884e99c338e65::t_6c7b4186262295 114-127,216-219,221
+  s_4884e99c338e65::t_b92ce4123ff1ad 220
+  s_4884e99c338e65::t_c8dcace5fa4573 222
+server/src/main/java/org/apache/rocketmq/studio/cluster/k8s/BatchRenewCertResultVO.java
+  s_4884e99c338e65::t_48b1e5d37674b6 1-46
+web/src/pages/cluster/__tests__/K8sCertsPage.test.tsx
+  s_4884e99c338e65::t_17909e65088f54 19,23,31,63-75,96,168-222,224-232
+  s_4884e99c338e65::t_caa93f163a38f1 223
+  s_4884e99c338e65::t_03b24bde6028f9 58-59
+  s_4884e99c338e65::t_91013763e4806d 233-240
+server/src/main/java/org/apache/rocketmq/studio/cluster/k8s/K8sCertController.java
+  s_4884e99c338e65::t_48b1e5d37674b6 61-67
+server/src/test/java/org/apache/rocketmq/studio/cluster/k8s/K8sCertServiceTest.java
+  s_4884e99c338e65::t_e8b398e5df5eb0 390-466
+server/src/main/java/org/apache/rocketmq/studio/cluster/k8s/K8sCertService.java
+  s_4884e99c338e65::t_48b1e5d37674b6 30,144-168,184-207
+  s_4884e99c338e65::t_9b505aa5b8e096 208
+server/src/test/java/org/apache/rocketmq/studio/cluster/k8s/K8sCertControllerTest.java
+  s_4884e99c338e65::t_e8b398e5df5eb0 36,149,236-284,287
+  s_4884e99c338e65::t_4e1948a51e8bfe 285-286
+  s_4884e99c338e65::t_10bded36b06355 288
+web/src/services/clusterService.ts
+  s_4884e99c338e65::t_6c7b4186262295 8,128-157
+  s_4884e99c338e65::t_eede9fb1fc6585 158-159
+server/src/main/java/org/apache/rocketmq/studio/cluster/k8s/BatchRenewCertDTO.java
+  s_4884e99c338e65::t_48b1e5d37674b6 1-37
+web/src/pages/cluster/certs.tsx
+  s_4884e99c338e65::t_6c7b4186262295 42,63-64,68-69,151-156,164,174-197,318,338,355,394-395,411,422-445,447-451,453-462,469-473
+  s_4884e99c338e65::t_2a7d272f11adc0 89
+  s_4884e99c338e65::t_edba32e2e76ca5 20,58,340,357,452,464
+web/src/api/cluster.test.ts
+  s_4884e99c338e65::t_17909e65088f54 29,101-114
+  s_4884e99c338e65::t_d14d3ec541658e 115-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "a90fecc96c0bccc0278f593d870ae62dd552161f",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

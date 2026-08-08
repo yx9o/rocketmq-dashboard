@@ -1,0 +1,58 @@
+server/src/main/java/org/apache/rocketmq/studio/instance/group/ConsumerGroupController.java
+  s_4884e99c338e65::t_2f1d604113aa86 74-76
+web/src/api/metadata.ts
+  s_4884e99c338e65::t_b01a411dd6ac47 78-94,213-219
+  s_4884e99c338e65::t_327c3123459a82 220
+web/src/services/consumerService.ts
+  s_4884e99c338e65::t_b4f12cf6693ef5 7,86-100
+  s_4884e99c338e65::t_a4d4b42c2a4a8d 101-102
+server/src/test/java/org/apache/rocketmq/studio/instance/group/ConsumerGroupControllerTest.java
+  s_4884e99c338e65::t_0f5e79249d2cb8 148-149,151-152,161
+server/src/main/java/org/apache/rocketmq/studio/instance/group/ConsumerDiagnosticsProvider.java
+  s_4884e99c338e65::t_3e9ed191c3e438 21
+web/src/services/consumerService.test.ts
+  s_4884e99c338e65::t_867b849a376718 23,86-92
+  s_4884e99c338e65::t_95886038532719 93-94
+server/src/main/java/org/apache/rocketmq/studio/instance/group/ConsumerDiagnosticsProviderStub.java
+  s_4884e99c338e65::t_00397096e52f3b 29,31
+web/src/pages/instance/consumer.tsx
+  s_4884e99c338e65::t_237bfbba5dcccc 1254-1337
+  s_4884e99c338e65::t_4433c87820c528 218-221
+  s_4884e99c338e65::t_c9611fa7b9561a 333-352
+  s_4884e99c338e65::t_b1acbdc98b46dc 68,77
+  s_4884e99c338e65::t_05fe4c42da59a8 708-721
+  s_4884e99c338e65::t_aac7f64a04ae03 1253
+server/src/test/java/org/apache/rocketmq/studio/instance/group/ConsumerDiagnosticsServiceTest.java
+  s_4884e99c338e65::t_40f40d74c6db84 54-55,57-58,62,74-75,77-78,82,87,94
+web/src/api/metadata.test.ts
+  s_4884e99c338e65::t_7158f229dbe5bc 24,67-82
+  s_4884e99c338e65::t_65c2ad46c32699 83-85
+web/src/pages/instance/__tests__/ConsumerPage.test.tsx
+  s_4884e99c338e65::t_9354a58cdc7f1c 36,147-162,282-315
+  s_4884e99c338e65::t_1c2cb8f6439ad8 316-318
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/RocketMQConsumerDiagnosticsProviderTest.java
+  s_4884e99c338e65::t_59429b759323fb 1-145
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/RocketMQConsumerDiagnosticsProvider.java
+  s_4884e99c338e65::t_69f096939b2e37 1-174
+server/src/main/java/org/apache/rocketmq/studio/instance/group/ConsumerDiagnosticsService.java
+  s_4884e99c338e65::t_b50bdb2139ca0b 31-32,35,44-46
+  s_4884e99c338e65::t_85fbe43e51376b 47
+server/src/test/java/org/apache/rocketmq/studio/instance/group/ConsumerDiagnosticsProviderStubTest.java
+  s_4884e99c338e65::t_e74928866aa7f1 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "79d828d1261c903a40d1946a209d426343f0f806",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+web/src/api/cloudCredential.ts
+  s_4884e99c338e65::t_03091159926c0d 17-32,39-52
+web/src/mock/cloudCredentials.ts
+  s_4884e99c338e65::t_faeb5538a3e3eb 1-39
+web/src/pages/instance/index.tsx
+  s_4884e99c338e65::t_8b7ae2c623e617 41,55
+web/src/pages/settings/index.tsx
+  s_4884e99c338e65::t_4552229fae903c 69
+  s_4884e99c338e65::t_8f5ed00ff963c7 812
+  s_4884e99c338e65::t_9bee50104ef515 64-68,70-74,101-108,110-112,613-811,813-863
+  s_4884e99c338e65::t_514289ba322cc0 20
+  s_4884e99c338e65::t_94234d499abfee 864-866
+web/src/services/cloudCredentialService.test.ts
+  s_4884e99c338e65::t_d5c11143a0a360 1-98
+web/src/api/cloudCredential.test.ts
+  s_4884e99c338e65::t_779c2f87c3f942 21-26,61-138
+web/src/services/cloudCredentialService.ts
+  s_4884e99c338e65::t_9c304118f1ba4d 1-94
+web/src/pages/settings/__tests__/CloudCredentialTab.test.tsx
+  s_4884e99c338e65::t_88ca2285ffc893 1-28,30-31,33-171,173-181
+  s_4884e99c338e65::t_a403d1372e90e3 29,32
+  s_4884e99c338e65::t_ccc932072cb3d8 172
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "cff8547dc7e27ae72ae4345cbb4907fa9639d3f7",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

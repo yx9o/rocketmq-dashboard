@@ -1,0 +1,58 @@
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/AlertRuleController.java
+  s_4884e99c338e65::t_53ebfd5aa9f468 43-47
+web/src/i18n/translations.ts
+  s_4884e99c338e65::t_ea2960e9172945 760-763
+  s_4884e99c338e65::t_7ddbbfb6248566 749-751,756-759
+web/src/pages/studio/__tests__/AlertManagement.test.tsx
+  h_4b4a4f6d863f9a 196,336
+  s_4884e99c338e65::t_735e7923ad791a 171,236,238-246,251-252,257-314,316-320
+  s_4884e99c338e65::t_0ad497b0519805 65-66,166-170
+  s_4884e99c338e65::t_829be690b0386a 25-32,35-40,43-64,67-69,139-151,162,199,222,232-235
+  s_4884e99c338e65::t_7adc46d8227db1 173-183
+  s_4884e99c338e65::t_d49b6748424c0e 247-250,253-256,315
+  s_4884e99c338e65::t_9e344e613ade81 172
+  s_4884e99c338e65::t_4dbb2a7261faf2 237
+web/src/api/alertManagement.test.ts
+  s_4884e99c338e65::t_96553303691aa8 21-29,47,55,57,60-126
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/AlertRuleControllerTest.java
+  s_4884e99c338e65::t_41d2d4be5bda03 72-80
+  s_4884e99c338e65::t_17994322cb8597 71
+web/src/api/alertManagement.ts
+  s_4884e99c338e65::t_436f3c54311715 24-52,54-58,61-74
+web/src/pages/studio/AlertManagement.tsx
+  s_4884e99c338e65::t_e423819db2b80e 105-120,122-128,171,173-175,197-211,215-235,239-249,254-263
+  s_4884e99c338e65::t_234179a87bc22f 344-357,385-392,396-401,406-420,424-425,428,430-432,435,446
+  s_4884e99c338e65::t_05e157e41e7fa7 300,331
+  s_4884e99c338e65::t_b42ff48d2249dc 554,566,570,576,584
+  s_4884e99c338e65::t_afe64e18889b8c 172,176-179,182-196,585-591,745,754,756-758,761-764,785
+  s_4884e99c338e65::t_31c455965678e5 180-181
+  s_4884e99c338e65::t_01c2df4343427e 363-367
+  s_4884e99c338e65::t_178d33723f9479 49-57,65,78-85
+  s_4884e99c338e65::t_d2b86d84974c87 429,433-434
+  s_4884e99c338e65::t_3d91b583a635eb 86,130,139,141-142,144-145,152-165,212-214,236-238,250-253,264,266-274,393-395,421-423,806-809
+  s_4884e99c338e65::t_6e751a195aca07 551-553,555-558,578-580,772-780,805
+  s_4884e99c338e65::t_8a2e3386849a17 87
+  s_4884e99c338e65::t_296f5a469d8d1c 265
+  s_4884e99c338e65::t_01a17d35325e7e 810
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "52a5ccdd815c51dce6179ef1faade954ce8a1bd7",
+  "prompts": {},
+  "humans": {
+    "h_4b4a4f6d863f9a": {
+      "author": "yx9o <yangx_soft@163.com>"
+    }
+  },
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

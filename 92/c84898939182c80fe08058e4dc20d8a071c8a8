@@ -1,0 +1,42 @@
+web/src/i18n/translations.ts
+  s_4884e99c338e65::t_9f8be33a9f2cf9 31
+web/src/layouts/MainLayout.tsx
+  s_4884e99c338e65::t_9f8be33a9f2cf9 103,122-126,166
+web/src/hooks/useInstanceFilter.test.tsx
+  s_4884e99c338e65::t_3fa8d9664b0d4d 63-90
+web/src/pages/instance/__tests__/ResourcePlanPage.test.tsx
+  s_4884e99c338e65::t_5f5ee904f0f270 142-144
+  s_4884e99c338e65::t_3fa8d9664b0d4d 1-141,145-147
+web/src/hooks/useInstanceFilter.ts
+  s_4884e99c338e65::t_9f8be33a9f2cf9 23-24
+  s_4884e99c338e65::t_12f1011f3ad459 25
+web/src/App.tsx
+  s_4884e99c338e65::t_9f8be33a9f2cf9 35,160-161
+web/src/services/resourcePlanService.ts
+  s_4884e99c338e65::t_4c7bf8607ebdea 18-19,22-50,53-78,81-84,87-91
+  s_4884e99c338e65::t_488125d900b8f3 188-189,200-207,219-226,228-236,247-248,250-255,291-295,326-328
+  s_4884e99c338e65::t_9a3314128e7f83 1-17,20-21,51-52,79-80,85-86,92-187,190-199,208-218,227,237-246,249,256-290,296-325,329-395
+web/src/services/resourcePlanService.test.ts
+  s_4884e99c338e65::t_5f5ee904f0f270 20
+  s_4884e99c338e65::t_9a3314128e7f83 1-19,21-114
+  s_4884e99c338e65::t_ff196769e6528d 115-118
+web/src/pages/instance/resourcePlan.tsx
+  s_4884e99c338e65::t_ade42bc98a0aed 1-34,36-37,39-150,152-180,184-218,224-227,233-236,242-265
+  s_4884e99c338e65::t_5a6c1673aaa512 35,38,151,181-183,219-223,228-232,237-241
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "92c84898939182c80fe08058e4dc20d8a071c8a8",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+server/src/main/java/org/apache/rocketmq/studio/cluster/client/ProducerConnectionSummaryItemVO.java
+  s_4884e99c338e65::t_ec23d3b8f3f109 1-29
+web/src/pages/studio/__tests__/Producer.test.tsx
+  s_4884e99c338e65::t_0c51b2f001f73d 25-26,67-82,101,138-147,167-168,189-235
+  s_e0156c1c3a682c::t_3515942fa3f5e4 236-237
+web/src/api/producer.ts
+  s_4884e99c338e65::t_6c7e7a45999ebe 28-55,65-69,72-143,162-163,166-170
+server/src/main/java/org/apache/rocketmq/studio/cluster/client/ProducerConnectionSummaryVO.java
+  s_4884e99c338e65::t_ec23d3b8f3f109 1-144
+server/src/test/java/org/apache/rocketmq/studio/cluster/client/ProducerConnectionSummaryVOTest.java
+  s_4884e99c338e65::t_ec23d3b8f3f109 1-80
+web/src/api/producer.test.ts
+  s_4884e99c338e65::t_78ee6e49e7ce13 21-26,99-102,109-164
+web/src/pages/studio/Producer.tsx
+  s_4884e99c338e65::t_fc3b6ee8d4f89f 19-31,39-41,57-59,140,145,147,180-199,266-323
+  s_4884e99c338e65::t_d757d282d48570 46-50,328
+  s_e0156c1c3a682c::t_ff03f9b33de9eb 51,324
+server/src/main/java/org/apache/rocketmq/studio/cluster/client/ProducerConnectionResultVO.java
+  s_4884e99c338e65::t_ec23d3b8f3f109 28-33
+server/src/test/java/org/apache/rocketmq/studio/cluster/client/ProducerControllerTest.java
+  s_4884e99c338e65::t_ec23d3b8f3f109 78-82
+web/src/i18n/translations.ts
+  s_4884e99c338e65::t_38006117196f68 1120-1146
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "b409e49aa4b90875c15957d6af3d50a4fa836479",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    },
+    "s_e0156c1c3a682c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8272-a398-7a12-b7dc-1de18f1bfb0c",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

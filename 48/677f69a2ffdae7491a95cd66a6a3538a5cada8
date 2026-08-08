@@ -1,0 +1,37 @@
+server/src/main/resources/application.yml
+  s_4884e99c338e65::t_ca7750185daa31 52-54
+server/src/test/java/org/apache/rocketmq/studio/persistence/SchemaMigrationServiceTest.java
+  s_4884e99c338e65::t_233eef637b0a35 100,111,143,170-174
+  s_4884e99c338e65::t_93c70d36e707b4 40,131
+  s_4884e99c338e65::t_ca7750185daa31 1-39,41-99,101-110,112-130,132-142,144-169,175-185
+deploy/README.md
+  s_4884e99c338e65::t_7e40671cfb04eb 49
+  s_4884e99c338e65::t_ca7750185daa31 38-48
+server/src/main/resources/db/migration/mysql/V20260808_001__baseline_required_schema.sql
+  s_4884e99c338e65::t_ca7750185daa31 1-366
+server/src/main/resources/db/schema.sql
+  s_4884e99c338e65::t_ca7750185daa31 27-30,227-233
+  s_4884e99c338e65::t_b82a64e484ac91 234
+server/src/main/java/org/apache/rocketmq/studio/persistence/SchemaMigrationService.java
+  s_4884e99c338e65::t_47b4004e7490f1 20,67
+  s_4884e99c338e65::t_6dc1dd4be46d78 21,45,80
+  s_4884e99c338e65::t_ca7750185daa31 1-19,22-44,46-66,68-79,81-260
+server/src/main/java/org/apache/rocketmq/studio/persistence/SchemaMigrationProperties.java
+  s_4884e99c338e65::t_ca7750185daa31 1-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "48677f69a2ffdae7491a95cd66a6a3538a5cada8",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

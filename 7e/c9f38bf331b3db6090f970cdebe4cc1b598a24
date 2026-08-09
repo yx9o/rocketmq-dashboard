@@ -1,0 +1,49 @@
+docs/api-spec.md
+  s_4884e99c338e65::t_9baf4cdd30fa9e 116-119,1861-1962
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/grafana/GrafanaDashboardController.java
+  s_4884e99c338e65::t_6927be8cae723a 23,61-73
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/grafana/GrafanaDashboardService.java
+  s_4884e99c338e65::t_c9ee285d8f15e9 29,36-37,117-140
+server/src/test/java/org/apache/rocketmq/studio/cluster/metrics/grafana/GrafanaDashboardControllerTest.java
+  s_4884e99c338e65::t_c0ff1990d47a51 87-99
+server/src/test/java/org/apache/rocketmq/studio/cluster/metrics/grafana/GrafanaDashboardServiceTest.java
+  s_4884e99c338e65::t_dd34722f1cba87 25,30,34,99-125
+web/src/api/metrics.test.ts
+  s_4884e99c338e65::t_f0e31ff6c52300 26,195-204
+web/src/api/metrics.ts
+  s_4884e99c338e65::t_e2f81e7862ce71 160-166
+web/src/components/GrafanaDashboardList.tsx
+  s_4884e99c338e65::t_115b7a14bfdc94 26,42,75,81,90,99-111,163-173
+web/src/components/__tests__/GrafanaDashboardList.test.tsx
+  s_e0156c1c3a682c::t_3c9ef95d5fdc11 26,36,78-80,138,146-177
+web/src/i18n/translations.ts
+  s_4884e99c338e65::t_959ce49049bd86 763-765
+web/src/services/grafanaService.test.ts
+  s_e0156c1c3a682c::t_bd00e9ef7b5f22 8,48-54,67-77
+web/src/services/grafanaService.ts
+  s_e0156c1c3a682c::t_0243c6e0da3ae7 40-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "7ec9f38bf331b3db6090f970cdebe4cc1b598a24",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    },
+    "s_e0156c1c3a682c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8272-a398-7a12-b7dc-1de18f1bfb0c",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

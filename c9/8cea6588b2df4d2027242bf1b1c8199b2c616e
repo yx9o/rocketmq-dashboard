@@ -1,0 +1,35 @@
+docs/api-spec.md
+  s_4884e99c338e65::t_4e71cc3d573278 116-119,1861-1962
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/grafana/GrafanaDashboardController.java
+  s_4884e99c338e65::t_67b89b148913e7 23,61-73
+server/src/main/java/org/apache/rocketmq/studio/cluster/metrics/grafana/GrafanaDashboardService.java
+  s_4884e99c338e65::t_5011cae746f1e2 29,36-37,117-140
+server/src/test/java/org/apache/rocketmq/studio/cluster/metrics/grafana/GrafanaDashboardControllerTest.java
+  s_4884e99c338e65::t_c8de6464215a39 87-99
+server/src/test/java/org/apache/rocketmq/studio/cluster/metrics/grafana/GrafanaDashboardServiceTest.java
+  s_4884e99c338e65::t_8ace84793cd906 25,30,34,99-125
+web/src/api/metrics.test.ts
+  s_4884e99c338e65::t_309a754ba79e76 26,195-204
+web/src/api/metrics.ts
+  s_4884e99c338e65::t_dc007e6896e1bc 160-166
+web/src/components/GrafanaDashboardList.tsx
+  s_4884e99c338e65::t_b42fa5af0ffcba 26,42,75,81,90,99-111,163-173
+web/src/i18n/translations.ts
+  s_4884e99c338e65::t_3939654f71d8ce 763-765
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "c98cea6588b2df4d2027242bf1b1c8199b2c616e",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

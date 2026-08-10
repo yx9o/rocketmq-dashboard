@@ -1,15 +1,28 @@
 server/src/main/java/org/apache/rocketmq/studio/ops/ai/AiService.java
   h_4b4a4f6d863f9a 35,85-92
+  s_4884e99c338e65::t_62764cff295791 35,85-92
 server/src/main/java/org/apache/rocketmq/studio/ops/ai/AiToolAuditService.java
   h_4b4a4f6d863f9a 1-97
+  s_4884e99c338e65::t_1c30e1dfb8804a 1-97
 server/src/test/java/org/apache/rocketmq/studio/ops/ai/AiServiceTest.java
   h_4b4a4f6d863f9a 49-51,211-223
+  s_4884e99c338e65::t_5c0e2db4d79249 49-51,211-223
 server/src/test/java/org/apache/rocketmq/studio/ops/ai/AiToolAuditServiceTest.java
   h_4b4a4f6d863f9a 1-91
+  s_4884e99c338e65::t_470aefa885d0d9 1-91
 web/src/pages/ai/__tests__/AiPage.test.tsx
   h_4b4a4f6d863f9a 76,140-189
+  s_4884e99c338e65::t_b67048180e7575 164,166-189
+  s_4884e99c338e65::t_cdef9cb11c696b 76,140-163
+  s_4884e99c338e65::t_3679b836fba7c3 165
 web/src/pages/ai/index.tsx
   h_4b4a4f6d863f9a 94-104,121-122,163-208,460-461,732-754,772-776,778-786,788-795,800-807,1053-1109
+  s_4884e99c338e65::t_12d8eabbc6d27d 1053-1108
+  s_4884e99c338e65::t_6a66f674ad6a4e 94-104,121-122,163-207
+  s_4884e99c338e65::t_1c980503d96c96 460-461,732-754,772-776,778-786,788-795,800-806
+  s_4884e99c338e65::t_6e152276688d5c 208
+  s_4884e99c338e65::t_26bd59b3fff13c 807
+  s_4884e99c338e65::t_5de92452a3ccec 1109
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -19,6 +32,16 @@ web/src/pages/ai/index.tsx
   "humans": {
     "h_4b4a4f6d863f9a": {
       "author": "yx9o <yangx_soft@163.com>"
+    }
+  },
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
     }
   }
 }

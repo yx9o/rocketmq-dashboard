@@ -1,19 +1,33 @@
 web/src/api/cloudCredential.test.ts
   s_4884e99c338e65::t_4ad66bd9883085 21-26,61-138
+  s_4884e99c338e65::t_779c2f87c3f942 21-26,61-138
 web/src/api/cloudCredential.ts
   s_4884e99c338e65::t_78d9f9e5e4dc10 17-32,39-52
+  s_4884e99c338e65::t_03091159926c0d 17-32,39-52
 web/src/mock/cloudCredentials.ts
   s_4884e99c338e65::t_59b08447756c10 1-39
+  s_4884e99c338e65::t_faeb5538a3e3eb 1-39
 web/src/pages/instance/index.tsx
   s_4884e99c338e65::t_25c651c7e57390 41,56
+  s_4884e99c338e65::t_8b7ae2c623e617 41,56
 web/src/pages/settings/__tests__/CloudCredentialTab.test.tsx
   s_4884e99c338e65::t_ceef62be20a228 1-181
+  s_4884e99c338e65::t_88ca2285ffc893 1-28,30-31,33-171,173-181
+  s_4884e99c338e65::t_a403d1372e90e3 29,32
+  s_4884e99c338e65::t_ccc932072cb3d8 172
 web/src/pages/settings/index.tsx
   s_4884e99c338e65::t_0e2d52a1e110bd 20,65-75,102-109,111-113,622-880,924,931
+  s_4884e99c338e65::t_4552229fae903c 70
+  s_4884e99c338e65::t_8f5ed00ff963c7 821
+  s_4884e99c338e65::t_9bee50104ef515 65-69,71-75,102-109,111-113,622-820,822-872
+  s_4884e99c338e65::t_514289ba322cc0 20
+  s_4884e99c338e65::t_94234d499abfee 873-875
 web/src/services/cloudCredentialService.test.ts
   s_4884e99c338e65::t_f00491d3de86dd 1-98
+  s_4884e99c338e65::t_d5c11143a0a360 1-98
 web/src/services/cloudCredentialService.ts
   s_4884e99c338e65::t_205b047a13db2c 1-94
+  s_4884e99c338e65::t_9c304118f1ba4d 1-94
 ---
 {
   "schema_version": "authorship/3.0.0",

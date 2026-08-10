@@ -1,0 +1,32 @@
+docs/api-spec.md
+  s_4884e99c338e65::t_3a4fbf8421722d 64-114
+  s_4884e99c338e65::t_56b7178e4cfa44 115-118
+web/src/pages/cluster/certs.tsx
+  s_4884e99c338e65::t_62c4f3a6ef59b7 35,262,305,370
+  s_4884e99c338e65::t_16442697d86f28 58-59,141-146,308-309,325,336-357
+  s_4884e99c338e65::t_d8a31cd9a9c70a 38,358-359
+server/src/test/java/org/apache/rocketmq/studio/cluster/k8s/K8sCertControllerTest.java
+  s_4884e99c338e65::t_96b87b7f02a22e 146
+web/src/services/clusterService.test.ts
+  s_4884e99c338e65::t_d34b6913b2dcee 154,156-157,159-164,166-167
+web/src/pages/cluster/__tests__/K8sCertsPage.test.tsx
+  s_4884e99c338e65::t_d05c55a3c4f70e 19,21,23
+  s_4884e99c338e65::t_4aaade29141638 55-56,60-72,173-207
+  s_4884e99c338e65::t_3e814731eacac2 208
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "1525890045bbef7abb8028c8b0ec219b3c063e90",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": null
+    }
+  }
+}

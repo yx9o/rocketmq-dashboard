@@ -1,0 +1,22 @@
+web/src/pages/ai/__tests__/AiPage.test.tsx
+  s_4884e99c338e65::t_de9f7dbef52f0a 76,140-188,198-199,201-203
+  s_4884e99c338e65::t_0b574c346309b9 189,196-197,200,204-205
+web/src/pages/ai/index.tsx
+  s_4884e99c338e65::t_9ac285af746895 94-104,121-122,163-208,460-461,737-759,777-781,783-791,793-800,805-812,1062-1118
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "a46265ef6af54c6375fe9f40f5de8f60c54f92ac",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

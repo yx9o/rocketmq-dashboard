@@ -1,0 +1,28 @@
+web/src/pages/cluster/certs.tsx
+  s_4884e99c338e65::t_eb0ee7de17c8dd 42-43,74-79,196,202,205-206,222,233-256,267
+web/src/pages/cluster/__tests__/K8sCertsPage.test.tsx
+  s_4884e99c338e65::t_30f0521cf3d131 53-54,58-70,182-216
+  s_4884e99c338e65::t_5da61e4e81d6c7 217
+server/src/test/java/org/apache/rocketmq/studio/cluster/k8s/K8sCertControllerTest.java
+  s_4884e99c338e65::t_dc533aae7884a2 20,23,58-66,157
+docs/api-spec.md
+  s_4884e99c338e65::t_b3b8ad927a4c25 64-121
+web/src/services/clusterService.test.ts
+  s_4884e99c338e65::t_c3277810c7ac3c 154,156-157,159-164,166-167
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "dc73b81e62edcc20dd94980afb3913782586aa8c",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

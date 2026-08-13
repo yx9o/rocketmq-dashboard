@@ -1,0 +1,53 @@
+web/src/i18n/translations.ts
+  s_4884e99c338e65::t_3ef0be63ddbe8d 1204-1211
+server/src/main/resources/application.yml
+  s_4884e99c338e65::t_601dd790e0798d 52-54
+server/src/main/java/org/apache/rocketmq/studio/settings/SettingsController.java
+  s_4884e99c338e65::t_fbd02f0c36e915 55,61
+server/src/test/java/org/apache/rocketmq/studio/settings/SettingsControllerTest.java
+  s_4884e99c338e65::t_2a054ac2a7085a 240-256
+  s_4884e99c338e65::t_8a9589002fe3ea 239
+web/src/pages/studio/SslSettings.tsx
+  s_4884e99c338e65::t_3c653b07690232 19
+  s_4884e99c338e65::t_e461a4b12af990 20-22
+web/src/pages/studio/__tests__/SslSettings.test.tsx
+  s_4884e99c338e65::t_bd7624aba4f199 83,123-136
+  s_4884e99c338e65::t_5f8df6a36e1c34 137
+server/src/test/java/org/apache/rocketmq/studio/settings/SettingsServiceTest.java
+  s_4884e99c338e65::t_9270153bc9634a 463,468,476,481,497
+  s_4884e99c338e65::t_e8c4dc33ea772f 82-84,90,278-279,304,313-329
+  s_4884e99c338e65::t_b2f07464527da2 330-331
+docs/api-spec.md
+  s_4884e99c338e65::t_bbebe81fe723ba 1703,1715,1720,1724,1739-1741
+  s_4884e99c338e65::t_0eba4d5de75097 1742
+server/src/test/java/org/apache/rocketmq/studio/persistence/MybatisPlusSettingsRepositoryTest.java
+  s_4884e99c338e65::t_7c28e40c24cdb5 11,98,100,110-127,130,163-164
+  s_4884e99c338e65::t_8b5007ac906fac 128,131-149
+  s_4884e99c338e65::t_60bcd04df622b3 129
+server/src/main/java/org/apache/rocketmq/studio/persistence/MybatisPlusSettingsRepository.java
+  s_4884e99c338e65::t_487c48140d4f62 22,99,109-115,118-125,141-155
+  s_4884e99c338e65::t_85279cbe28e92c 35,37,116-117,126-140
+server/src/main/java/org/apache/rocketmq/studio/settings/SettingsService.java
+  s_4884e99c338e65::t_485df9cceb4d6e 25,84,87-91,96-101,106,222,274-276
+  s_4884e99c338e65::t_0582c4f5802ec2 277
+server/src/main/java/org/apache/rocketmq/studio/settings/SslSettingsUpdateDTO.java
+  s_4884e99c338e65::t_7bd7f9808d49bc 19-21,27,29-30,32-34,36-38,40-41,43-44,47,49-51,53-54,56-57,60
+web/src/api/settings.test.ts
+  s_4884e99c338e65::t_9ddb0e9ae35b8a 139-168
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "dee0d6fd80c202b43b4129c9409bf254d9149540",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

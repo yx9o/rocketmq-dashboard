@@ -1,0 +1,63 @@
+server/src/main/java/org/apache/rocketmq/studio/cluster/broker/ClusterService.java
+  s_4884e99c338e65::t_b025cc077c8dce 88,124-141
+  s_4884e99c338e65::t_00d684b24b4a65 35-36,63-64,311-556
+  s_4884e99c338e65::t_b8a642c7fa953c 557
+web/src/pages/cluster/index.tsx
+  s_4884e99c338e65::t_64d83ad5264229 761-913
+  s_4884e99c338e65::t_f102e4aba8a122 40,67-68,76,130,486,507,509-510
+  s_4884e99c338e65::t_494d0870b922e2 455
+  s_4884e99c338e65::t_cb2521cae28020 914
+web/src/api/cluster.ts
+  s_4884e99c338e65::t_d6c3f155c5da56 240-244,260-266,270
+  s_4884e99c338e65::t_50760542a619aa 203-239,258-259,267-269
+  s_4884e99c338e65::t_466e226b2a5ef8 271
+web/src/i18n/translations.ts
+  s_4884e99c338e65::t_634176df9a349e 1395-1423
+web/src/services/clusterService.ts
+  s_4884e99c338e65::t_72800d6eeea744 10,12,19-21,60-64,76-237,241,250,260
+  s_4884e99c338e65::t_c8185f05716724 11,65-75
+  s_4884e99c338e65::t_274a7d3428dd9c 238-240
+  s_4884e99c338e65::t_385bf2f25ff520 242-244,247-249
+  s_4884e99c338e65::t_dad0bf97c66575 251-253,257-259
+  s_4884e99c338e65::t_8d2e4cfcfaa2bb 261-262
+server/src/main/java/org/apache/rocketmq/studio/cluster/broker/ClusterController.java
+  s_4884e99c338e65::t_449f73d23c7004 64-69
+  s_4884e99c338e65::t_f6b1b99d72b527 58-63
+server/src/main/java/org/apache/rocketmq/studio/cluster/broker/ClusterTopologySummaryVO.java
+  s_4884e99c338e65::t_1e344e5db651b5 1-54
+server/src/test/java/org/apache/rocketmq/studio/cluster/broker/ClusterControllerTest.java
+  s_4884e99c338e65::t_cc4501ec09bcaf 43,96-138,141
+  s_4884e99c338e65::t_61f06397926d7b 139,142-164
+  s_4884e99c338e65::t_cfe7e5727318c2 140
+server/src/main/java/org/apache/rocketmq/studio/cluster/broker/ClusterTopologySnapshotVO.java
+  s_4884e99c338e65::t_6899aaff8bbba2 1-33
+server/src/main/java/org/apache/rocketmq/studio/cluster/broker/ClusterTopologyIssueVO.java
+  s_4884e99c338e65::t_1e344e5db651b5 1-35
+server/src/test/java/org/apache/rocketmq/studio/cluster/broker/ClusterServiceTest.java
+  s_4884e99c338e65::t_10e738ec2ee2b0 32,149-230
+  s_9216308bd7d0fb::t_97679569861217 231
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "cb255734ed741e4078aaab3799aed8b2e344ec27",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    },
+    "s_9216308bd7d0fb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff361-382b-70f1-bba9-20508aac7641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

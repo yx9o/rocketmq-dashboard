@@ -1,0 +1,65 @@
+web/src/pages/cluster/__tests__/ClusterPage.test.tsx
+  s_4884e99c338e65::t_2b345a4c5edb91 420-446
+  s_4884e99c338e65::t_bc3aa6367b0a23 27-28,37,156-200,269-272
+  s_4884e99c338e65::t_c4bc68a011195a 512
+  s_4884e99c338e65::t_401ef0cb4b96c0 273
+  s_4884e99c338e65::t_94fd3e462af5a0 447
+  s_4884e99c338e65::t_25afdd1d6dc985 513
+  h_4b4a4f6d863f9a 516
+server/src/main/java/org/apache/rocketmq/studio/cluster/broker/ClusterController.java
+  h_4b4a4f6d863f9a 58-69
+server/src/test/java/org/apache/rocketmq/studio/cluster/broker/ClusterControllerTest.java
+  h_4b4a4f6d863f9a 43,96-162
+  h_4b4a4f6d863f9a 163-164
+web/src/pages/cluster/index.tsx
+  h_4b4a4f6d863f9a 40,67-68,76,130,473,504,525,527-528,779-932,1876
+server/src/test/java/org/apache/rocketmq/studio/cluster/broker/ClusterServiceTest.java
+  h_4b4a4f6d863f9a 32,149-229
+  h_4b4a4f6d863f9a 230-231
+web/src/api/cluster.ts
+  h_4b4a4f6d863f9a 203-244,258-269
+  h_4b4a4f6d863f9a 270-271
+web/src/services/clusterService.ts
+  h_4b4a4f6d863f9a 10-12,19-21,60-209,211-225,227-260
+  s_4884e99c338e65::t_aaff59ac241fa1 210,226,261-265
+  s_4884e99c338e65::t_7dba8f53c9543a 266
+server/src/main/java/org/apache/rocketmq/studio/cluster/broker/ClusterService.java
+  s_4884e99c338e65::t_c640da739b42eb 466,483,555-558
+  h_4b4a4f6d863f9a 35-36,63-64,88,124-141,311-465,467-482,484-554,559
+  s_4884e99c338e65::t_43ffd15e62be64 560-561
+web/src/i18n/translations.ts
+  h_4b4a4f6d863f9a 1395-1423
+web/src/api/cluster.test.ts
+  s_4884e99c338e65::t_aa36f74f09a5c1 28-29,128-166
+  s_4884e99c338e65::t_43c8c5641f0d6d 167-168
+web/src/services/clusterService.test.ts
+  s_4884e99c338e65::t_6325cec614ee95 29-30,78-97
+  s_4884e99c338e65::t_3825b92000d9a1 98-99
+server/src/main/java/org/apache/rocketmq/studio/cluster/broker/ClusterTopologyIssueVO.java
+  s_4884e99c338e65::t_f0ec85ae60afc5 1-35
+server/src/main/java/org/apache/rocketmq/studio/cluster/broker/ClusterTopologySnapshotVO.java
+  s_4884e99c338e65::t_289cfef0784c3b 1-33
+server/src/main/java/org/apache/rocketmq/studio/cluster/broker/ClusterTopologySummaryVO.java
+  s_4884e99c338e65::t_a158a225b15e09 1-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "2b0bf87c5cf43ecc53f7e09de8d5833252a21583",
+  "prompts": {},
+  "humans": {
+    "h_4b4a4f6d863f9a": {
+      "author": "yx9o <yangx_soft@163.com>"
+    }
+  },
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

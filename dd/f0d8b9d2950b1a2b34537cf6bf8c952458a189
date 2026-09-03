@@ -1,0 +1,44 @@
+web/src/pages/home/DashboardTrafficInsights.tsx
+  s_4884e99c338e65::t_8877ffed2cc0b2 18-30,117-122,212-216,264-270
+  s_4884e99c338e65::t_48914eab3fb97f 1-17,31-116,123-211,217-263,271-297
+web/src/i18n/translations.ts
+  s_4884e99c338e65::t_6eea839b65ed47 114-170
+web/src/pages/home/dashboard.tsx
+  s_4884e99c338e65::t_5a12c8736c5057 29,301
+  s_3e6503a58b7aea::t_a43f416f489700 302
+web/src/utils/dashboardTrafficInsights.test.ts
+  s_4884e99c338e65::t_e8ac80810c9d0e 1-269
+web/src/utils/dashboardTrafficInsights.ts
+  s_4884e99c338e65::t_8b80ee2f28d6f8 1-371
+  s_4884e99c338e65::t_e7b9816575a722 372-394
+web/src/pages/home/__tests__/DashboardPage.test.tsx
+  s_4884e99c338e65::t_0a206940e70417 139,142-144
+  s_4884e99c338e65::t_2390ebf9f761ca 145-146,159,169,182,194,200,213,255
+web/src/pages/home/__tests__/DashboardTrafficInsights.test.tsx
+  s_4884e99c338e65::t_e8517dbc2b25bb 1-118,122,126-157
+  s_4884e99c338e65::t_81c0035294c8cf 119-121,123-125
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "ddf0d8b9d2950b1a2b34537cf6bf8c952458a189",
+  "prompts": {},
+  "sessions": {
+    "s_3e6503a58b7aea": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f6d99-d7f8-7df2-a776-3aab7a813099",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    },
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

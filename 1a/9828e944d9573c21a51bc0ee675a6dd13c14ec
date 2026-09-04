@@ -1,0 +1,39 @@
+web/src/pages/ops/__tests__/AuditPage.test.tsx
+  s_4884e99c338e65::t_97e7ba4d2be2a3 132,182-184,211,216
+web/src/pages/ops/AuditRiskInsights.tsx
+  s_4884e99c338e65::t_3e01137e9a2a84 1-44,46-349
+  s_4884e99c338e65::t_e9eba9f6d46bf8 45
+  s_4884e99c338e65::t_0621272083b129 350-352
+web/src/pages/ops/audit.tsx
+  s_4884e99c338e65::t_bdd1d4a549e1ec 62,493
+web/src/i18n/translations.ts
+  s_4884e99c338e65::t_bed38c8234bf15 831-894
+web/src/pages/ops/__tests__/AuditRiskInsights.test.tsx
+  s_4884e99c338e65::t_7909d5774b0140 108-110
+  s_4884e99c338e65::t_57c047cfcbfc90 1-107,111-157
+web/src/pages/ops/__tests__/auditRiskInsights.test.ts
+  s_4884e99c338e65::t_ccd3cdfcf2f9a1 27
+  s_4884e99c338e65::t_282a5bd63c0f50 168-193
+  s_4884e99c338e65::t_413cb078cf47e8 1-26,28-167,194-204
+  s_4884e99c338e65::t_fc3b6d22fba4fb 205-207
+web/src/pages/ops/auditRiskInsightModel.ts
+  s_4884e99c338e65::t_b999ef6c737589 1-78,80-194,196-206,208-445
+  s_4884e99c338e65::t_265475cc26062d 79,195,207
+  s_4884e99c338e65::t_2b638242235305 446-447
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "1a9828e944d9573c21a51bc0ee675a6dd13c14ec",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

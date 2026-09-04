@@ -1,0 +1,28 @@
+web/src/pages/home/__tests__/DashboardPage.test.tsx
+  s_4884e99c338e65::t_db91bbc4d2797d 68-96,180-187,192-200
+  s_4884e99c338e65::t_e773ec3ccc8070 188-191
+  s_4884e99c338e65::t_5449b0801dd679 201-202
+web/src/pages/home/dashboard.tsx
+  s_4884e99c338e65::t_db91bbc4d2797d 8-9,19,33-37,41-56,60-71,179-180,219,294-313,319-338,343-367
+  s_4884e99c338e65::t_d0ef98c06d7c07 314-318
+web/src/pages/home/__tests__/DashboardTrafficInsights.test.tsx
+  s_4884e99c338e65::t_db91bbc4d2797d 19,111,127
+web/src/pages/home/DashboardTrafficInsights.tsx
+  s_4884e99c338e65::t_db91bbc4d2797d 165
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "ecf8792f92444f9b30a717e79189e0b4d3c1e2e9",
+  "prompts": {},
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

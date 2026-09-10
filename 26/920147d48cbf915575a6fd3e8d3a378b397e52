@@ -1,0 +1,35 @@
+web/src/pages/studio/LiteTopicCapacityInsights.tsx
+  s_4884e99c338e65::t_6ea17282a2c5d0 1-433
+web/src/pages/studio/LiteTopic.tsx
+  h_4b4a4f6d863f9a 63,792-794
+  h_4b4a4f6d863f9a 795
+web/src/i18n/translations.ts
+  h_4b4a4f6d863f9a 2733-2854
+web/src/pages/studio/__tests__/LiteTopicCapacityInsights.test.tsx
+  s_4884e99c338e65::t_3e0de26fb791da 1-154
+web/src/utils/liteTopicCapacityInsights.test.ts
+  s_4884e99c338e65::t_e361e45bf01525 1-277
+web/src/utils/liteTopicCapacityInsights.ts
+  s_4884e99c338e65::t_a55bc77c1b344b 1-557
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "26920147d48cbf915575a6fd3e8d3a378b397e52",
+  "prompts": {},
+  "humans": {
+    "h_4b4a4f6d863f9a": {
+      "author": "yx9o <yangx_soft@163.com>"
+    }
+  },
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

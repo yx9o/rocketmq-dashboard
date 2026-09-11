@@ -1,0 +1,35 @@
+web/src/components/MessageHistoryInsightsPanel.tsx
+  s_4884e99c338e65::t_4e851a65ebc7f2 1-225,227-324
+  s_4884e99c338e65::t_efecd42227175a 226
+web/src/components/MessageQueryHistoryDrawer.tsx
+  h_4b4a4f6d863f9a 19,184-189
+web/src/i18n/translations.ts
+  h_4b4a4f6d863f9a 528-648
+web/src/components/__tests__/MessageHistoryInsightsPanel.test.tsx
+  s_4884e99c338e65::t_17011c14dcd4c3 1-179
+web/src/utils/messageHistoryInsights.test.ts
+  s_4884e99c338e65::t_bc0fed1ad7c876 1-225
+web/src/utils/messageHistoryInsights.ts
+  s_4884e99c338e65::t_c9d2c03b1e497d 1-470
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "1640abe51510ba202bad36fdaa64e8f4a4c6ebcc",
+  "prompts": {},
+  "humans": {
+    "h_4b4a4f6d863f9a": {
+      "author": "yx9o <yangx_soft@163.com>"
+    }
+  },
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

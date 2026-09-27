@@ -1,0 +1,40 @@
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/tool/handler/group/GroupMutationPlanTest.java
+  s_4884e99c338e65::t_4256f264e75042 21-23,26,149-188
+  s_4884e99c338e65::t_035080e1ae99f7 189
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/RocketMQAdminClientImplTest.java
+  s_4884e99c338e65::t_4256f264e75042 68,1131-1152
+  s_4884e99c338e65::t_9f04c9863eed99 1153-1154
+server/src/test/java/org/apache/rocketmq/studio/instance/topic/MetadataServiceTest.java
+  s_4884e99c338e65::t_4256f264e75042 55,954-969
+  s_4884e99c338e65::t_0cf2bac22267d9 970-971
+server/src/test/java/org/apache/rocketmq/studio/instance/group/ConsumerGroupControllerTest.java
+  s_4884e99c338e65::t_4256f264e75042 29-30,40,160-178
+  s_4884e99c338e65::t_ed6014a74ecbea 179-180
+server/src/main/java/org/apache/rocketmq/studio/ops/ai/tool/contract/group/GroupInput.java
+  s_4884e99c338e65::t_ff8b49184e1e4c 39
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/RocketMQAdminClientImpl.java
+  s_4884e99c338e65::t_ff8b49184e1e4c 786
+server/src/main/java/org/apache/rocketmq/studio/instance/group/CreateConsumerGroupDTO.java
+  s_4884e99c338e65::t_ff8b49184e1e4c 51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "78295f52ae923756e98f0ab2a68f633760822ee7",
+  "prompts": {},
+  "humans": {
+    "h_4b4a4f6d863f9a": {
+      "author": "yx9o <yangx_soft@163.com>"
+    }
+  },
+  "sessions": {
+    "s_4884e99c338e65": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f8dd4-ca01-7ce3-a219-1972df092368",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

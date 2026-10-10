@@ -1,0 +1,27 @@
+server/src/test/java/org/apache/rocketmq/studio/provider/tencent/TencentAclServiceTest.java
+  s_d0faba355281d3::t_1901b273c38f32 32-33,38,42,53,280-317
+  s_d0faba355281d3::t_6713214b7253f5 318
+server/src/main/java/org/apache/rocketmq/studio/provider/tencent/TencentAclService.java
+  s_d0faba355281d3::t_ad14ebef619664 313-322
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "76df272203268030ce21f16e0796b5985237976a",
+  "prompts": {},
+  "humans": {
+    "h_4b4a4f6d863f9a": {
+      "author": "yx9o <yangx_soft@163.com>"
+    }
+  },
+  "sessions": {
+    "s_d0faba355281d3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a124fa-7edd-7e40-bb80-457ffdc2778f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

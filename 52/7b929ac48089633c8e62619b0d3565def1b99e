@@ -1,0 +1,42 @@
+server/src/test/java/org/apache/rocketmq/studio/instance/ResourceOwnershipGuardTest.java
+  s_d0faba355281d3::t_d94696cb360782 42,58,442-445,456,460-463
+server/src/test/java/org/apache/rocketmq/studio/ops/ai/tool/handler/group/GroupMutationPlanTest.java
+  s_d0faba355281d3::t_d94696cb360782 150-151,156-157
+server/src/main/java/org/apache/rocketmq/studio/ops/ai/tool/contract/group/GroupInput.java
+  s_d0faba355281d3::t_d94696cb360782 39
+server/src/main/java/org/apache/rocketmq/studio/provider/alibaba/AliyunInstanceProvider.java
+  s_d0faba355281d3::t_d94696cb360782 357-358
+server/src/main/java/org/apache/rocketmq/studio/instance/group/ConsumerGroupVO.java
+  s_d0faba355281d3::t_d94696cb360782 31-32
+server/src/main/java/org/apache/rocketmq/studio/provider/tencent/TencentInstanceProvider.java
+  s_d0faba355281d3::t_d94696cb360782 507
+server/src/main/java/org/apache/rocketmq/studio/instance/group/CreateConsumerGroupDTO.java
+  s_d0faba355281d3::t_d94696cb360782 51
+server/src/test/java/org/apache/rocketmq/studio/provider/tencent/TencentInstanceProviderTest.java
+  s_d0faba355281d3::t_d94696cb360782 77-78,717-734
+web/src/pages/instance/consumer.tsx
+  s_d0faba355281d3::t_d94696cb360782 2165
+web/src/pages/instance/__tests__/ConsumerPage.test.tsx
+  s_d0faba355281d3::t_d94696cb360782 1562-1576,1578-1580,1582-1583,1585-1604,1606-1612,1614-1616
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "527b929ac48089633c8e62619b0d3565def1b99e",
+  "prompts": {},
+  "humans": {
+    "h_4b4a4f6d863f9a": {
+      "author": "yx9o <yangx_soft@163.com>"
+    }
+  },
+  "sessions": {
+    "s_d0faba355281d3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a124fa-7edd-7e40-bb80-457ffdc2778f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

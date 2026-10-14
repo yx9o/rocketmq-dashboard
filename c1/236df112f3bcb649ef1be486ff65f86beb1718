@@ -1,0 +1,38 @@
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/AlertServiceTest.java
+  s_d0faba355281d3::t_b8d4a200e22575 53,85,93-94
+  s_d0faba355281d3::t_617969b5be1a60 52,76-84,86-92
+  s_d0faba355281d3::t_97f914a6f86a13 95-96
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/NativeAlertRulePolicyTest.java
+  s_d0faba355281d3::t_b8d4a200e22575 28,102
+  s_d0faba355281d3::t_617969b5be1a60 21-23,91-101,103-109,143-144
+server/src/test/java/org/apache/rocketmq/studio/ops/alert/AlertRuleTransferServiceTest.java
+  s_d0faba355281d3::t_2e8958d14ec8d0 10-12,29-30,105-113,120-121,124-125
+  s_d0faba355281d3::t_617969b5be1a60 114-119,122-123,126-127
+server/src/main/java/org/apache/rocketmq/studio/ops/alert/NativeAlertRulePolicy.java
+  s_d0faba355281d3::t_9a48ec03c7be1d 48,73-75
+  s_bcf4c467cdba7c::t_9cedbc7ec43d58 76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c1236df112f3bcb649ef1be486ff65f86beb1718",
+  "prompts": {},
+  "sessions": {
+    "s_bcf4c467cdba7c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a13821-5192-7b91-92cc-fb812c1770f0",
+        "model": "gpt-5.5"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    },
+    "s_d0faba355281d3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a124fa-7edd-7e40-bb80-457ffdc2778f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

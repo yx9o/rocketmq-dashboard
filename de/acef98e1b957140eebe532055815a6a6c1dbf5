@@ -1,0 +1,23 @@
+server/src/main/java/org/apache/rocketmq/studio/cluster/nameserver/NameserverRegistryService.java
+  s_d0faba355281d3::t_7a90eda4bdadbd 90-98,100
+server/src/test/java/org/apache/rocketmq/studio/cluster/nameserver/NameserverRegistryPersistenceTest.java
+  s_d0faba355281d3::t_895dcb80fc0806 1-132
+server/src/test/java/org/apache/rocketmq/studio/cluster/nameserver/NameserverRegistryServiceTest.java
+  s_d0faba355281d3::t_dc53b05cee711e 267,270,280-282,296,313,329,339,347-349,358,376,402,408-412,424,435-438,447,491-500
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "deacef98e1b957140eebe532055815a6a6c1dbf5",
+  "prompts": {},
+  "sessions": {
+    "s_d0faba355281d3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a124fa-7edd-7e40-bb80-457ffdc2778f",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

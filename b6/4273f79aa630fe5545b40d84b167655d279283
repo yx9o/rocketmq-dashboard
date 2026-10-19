@@ -1,0 +1,18 @@
+docs/api-spec.md
+  h_4b4a4f6d863f9a 1044
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/RocketMQAdminClientImpl.java
+  h_4b4a4f6d863f9a 404,407-411,425-427,470,482-487
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/RocketMQAdminClientImplTest.java
+  h_4b4a4f6d863f9a 1152-1221,1260,1280
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b64273f79aa630fe5545b40d84b167655d279283",
+  "prompts": {},
+  "humans": {
+    "h_4b4a4f6d863f9a": {
+      "author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+server/src/main/java/org/apache/rocketmq/studio/provider/apache/RocketMQClusterProvider.java
+  h_4b4a4f6d863f9a 49,194-224,426,428-430
+server/src/test/java/org/apache/rocketmq/studio/provider/apache/RocketMQClusterProviderTest.java
+  h_4b4a4f6d863f9a 585-652
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "06ca88deb09cc2b358c4b66d5291a63bcb539f9f",
+  "prompts": {},
+  "humans": {
+    "h_4b4a4f6d863f9a": {
+      "author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}

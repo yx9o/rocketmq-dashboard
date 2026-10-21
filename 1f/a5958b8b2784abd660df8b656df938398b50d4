@@ -1,0 +1,18 @@
+server/src/main/java/org/apache/rocketmq/studio/instance/acl/PlainAclRemoteAddressValidator.java
+  h_4b4a4f6d863f9a 214-216
+server/src/test/java/org/apache/rocketmq/studio/instance/acl/AclServiceTest.java
+  h_4b4a4f6d863f9a 1025-1027,1044-1046
+server/src/test/java/org/apache/rocketmq/studio/instance/acl/PlainAclRemoteAddressValidatorTest.java
+  h_4b4a4f6d863f9a 33-40,59-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1fa5958b8b2784abd660df8b656df938398b50d4",
+  "prompts": {},
+  "humans": {
+    "h_4b4a4f6d863f9a": {
+      "author": "yx9o <yangx_soft@163.com>"
+    }
+  }
+}
